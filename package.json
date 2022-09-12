@@ -1,0 +1,21 @@
+{
+  "name": "moo-design-tokens",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clean && node ./build.js",
+    "clean": "rm -rf build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/groovy-gambit/moo-design-tokens.git"
+  },
+  "author": "ben ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/groovy-gambit/moo-design-tokens/issues"
+  },
+  "homepage": "https://github.com/groovy-gambit/moo-design-tokens#readme"
+}

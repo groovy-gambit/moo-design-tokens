@@ -1,0 +1,36 @@
+{
+    "opacity": {
+        "200": { 
+            "$value": 0.1,
+            "$type": "opacity"
+        },
+        "300": { 
+            "$value": 0.25,
+            "$type": "opacity"
+        },
+        "400": { 
+            "$value": 0.4,
+            "$type": "opacity"
+        },
+        "500": { 
+            "$value": 0.55,
+            "$type": "opacity"
+        },
+        "600": { 
+            "$value": 0.70,
+            "$type": "opacity"
+        },
+        "700": { 
+            "$value": 0.88,
+            "$type": "opacity"
+        },
+        "800": { 
+            "$value": 0.9,
+            "$type": "opacity"
+        },
+        "900": { 
+            "$value": 1,
+            "$type": "opacity"
+        }
+    }
+}
